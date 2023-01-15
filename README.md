@@ -39,4 +39,64 @@
 >>> 三级
 >>>> 四级
 
+## 列表
+
+#### 有序列表
+
+1. 进程知识
+   1. 进程间的通信
+     1. 管道
+     2. MMAP
+     3. 消息队列
+   2. 进程关系
+2. 线程相关
+
+#### 无序列表
+
+* 进程知识
+   * 进程间的通信
+     * 管道
+     * MMAP
+     * 消息队列
+   * 进程关系
+* 线程相关
+
+## 表格
+
+游戏名|游戏价格|游戏热度|
+--|:--:|--:|
+王者荣耀|199|20%
+原神|299|30%
+
+##代码片段
+
+```c
+#include <stdio.h>
+
+int main(void)
+{
+	printf("啦啦啦。。n\");
+	return 0;
+}
+```
+```cpp
+	//c++ 代码片段
+```
+```bash
+	git add filename
+	git commit -m ""
+	git push origin master
+```
+
+##插入图片和链接
+
+[bilibili网站](https://www.bilibili.com "点击进入b站")<br>
+
+![证件照](https://i.postimg.cc/FsvpBDhj/gkn.jpg "帅不帅")
+
+
+
+
+
+
 
